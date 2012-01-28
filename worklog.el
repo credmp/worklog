@@ -1,4 +1,4 @@
-;;; worklog.el starts here
+;;; worklog.el --- keep track of stuff you do
 
 ;; Copyright (C) 1998,2001,2002 Kai Grossjohann
 ;; Copyright (C) 2003,2006 Arjen Wiersma
