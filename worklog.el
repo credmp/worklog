@@ -1,13 +1,14 @@
-;;; worklog.el --- keep track of stuff you do
+;;; worklog.el --- the Emacs timetracker
 
 ;; Copyright (C) 1998,2001,2002 Kai Grossjohann
-;; Copyright (C) 2003,2006 Arjen Wiersma
+;; Copyright (C) 2003, 2013 Arjen Wiersma
 
 ;; Author: Kai.Grossjohann@CS.Uni-Dortmund.DE
-;; Maintainer: Arjen@Wiersma.org
+;; Maintainer: Arjen Wiersma <arjen@wiersma.org>
+;; Created: 1999/04/23
 ;; Version: 2.4.2
 ;; Keywords: timetracker
-;; Homepage: http://www.wiersma.org
+;; Homepage: https://github.com/credmp/worklog
 
 ;; This file is not (yet) part of GNU Emacs.
 
