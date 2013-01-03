@@ -6,7 +6,7 @@ Worklog is an Emacs major mode which enables you to keep track of what
     
 An example worklog file:
 
-    2003-07-2217:20 login 
+    2003-07-22 17:20 login 
     2003-07-22 18:33 Hacking on worklog 
     2003-07-22 20:00 logout
     2003-07-23 06:44 login
